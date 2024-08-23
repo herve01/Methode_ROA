@@ -1,0 +1,34 @@
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\bin\Debug\Methode_ROA.exe.config
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\bin\Debug\Methode_ROA.exe
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\bin\Debug\Methode_ROA.pdb
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.Form1.resources
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.Properties.Resources.resources
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.csproj.GenerateResource.Cache
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.exe
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.pdb
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.Trace.resources
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.csprojResolveAssemblyReference.cache
+D:\ProjetInformatique\Mes projet Csharp\Methode_ROA\Methode_ROA\bin\Debug\DCss\Styles.css
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\bin\Debug\Methode_ROA.exe.config
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.exe
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.pdb
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\bin\Debug\DCss\Styles.css
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\bin\Debug\Methode_ROA.exe
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\bin\Debug\Methode_ROA.pdb
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.csprojResolveAssemblyReference.cache
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.Form1.resources
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.Properties.Resources.resources
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.Trace.resources
+D:\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.csproj.GenerateResource.Cache
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\bin\Debug\DCss\Styles.css
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\bin\Debug\Methode_ROA.exe.config
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\bin\Debug\Methode_ROA.exe
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\bin\Debug\Methode_ROA.pdb
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.csproj.AssemblyReference.cache
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.Form1.resources
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.Properties.Resources.resources
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.Trace.resources
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.csproj.GenerateResource.cache
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.csproj.CoreCompileInputs.cache
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.exe
+F:\Projects\ProjetInformatique\projet Visual Studio 2012\Methode_ROA\Methode_ROA\obj\Debug\Methode_ROA.pdb

@@ -1,0 +1,141 @@
+﻿body
+{
+    
+}
+
+table
+{
+    border: 1px solid silver;
+    border-collapse: collapse;
+    margin-left: 150px;
+    margin-top: 100px;
+    max-width: 100%;
+}
+
+tr, td, th 
+{
+    border : 1px solid silver;  
+}
+
+.cycle
+{
+    background: #e8e8ec;
+    color : white;
+    width: 100px; 
+    height: 20px;
+}
+
+    #idTd2
+    {
+    position : relative;
+    top : 4px;
+    text-shadow : 1px 1px 1px red; 
+    right : 3px; 
+    border : none; 
+
+    }
+
+    #MTitle
+    {
+    background: #4c4c4f; 
+    height: 35px; 
+    text-align: Center; 
+    width: 75px; 
+    color : white; 
+    font-size: 15px; 
+    text-shadow: 1px 1px 1px #fff; 
+    font-family: Segoe UI; 
+    }
+
+
+    #MTitleVe
+    {
+    text-align: Center; 
+    font-size: 25px; 
+    text-shadow: 1px 1px 1px #fff; 
+    font-family: Segoe UI; 
+    }
+
+
+    #idEntete{
+    text-align: Center; 
+    font-size: 25px; 
+    text-shadow: 1px 1px 1px #fff; 
+    font-family: Segoe UI; 
+    }
+
+
+    #MTitless{
+    background: #4c4c4f; 
+    height: 35px; 
+    text-align: Center; 
+    color : white; 
+    }
+
+    .MTit{
+    color : black; 
+    width: 100px; 
+    height: 20px; 
+    }
+
+    #MTits{
+    color : black;
+    height: 35px;
+    text-align: Center;
+    }
+    #true{
+    margin-right: 38px;
+    color: gray;
+    font-size: 16px;
+    text-shadow: 1px 1px 1px #fff; 
+    font-family: Segoe UI; 
+    }
+    
+    #trueOp{
+    margin-right: 38px;
+    color: red;
+    font-size: 16px;
+    text-shadow: 1px 1px 1px #fff; 
+    font-family: Segoe UI; 
+    }
+
+
+    #truess
+    {
+    margin-right: 38px;
+    color: white;
+    font-size: 16px;
+    text-shadow: 1px 1px 1px #fff; 
+    font-family: Segoe UI; 
+    }
+
+    #trues
+    {
+    color: black; 
+    font-size: 16px; 
+    text-shadow: 1px 1px 1px #fff; 
+    font-family: Segoe UI; 
+    float: right; 
+    }
+
+    #MTi
+    {
+    color : white; 
+    font-size: 15px;
+    text-shadow: 1px 1px 1px #fff; 
+    font-family: Segoe UI; 
+    text-align: Center; 
+    }
+
+    #idTd3x
+    {
+    margin-right: 50px;
+    color : white; 
+    }
+
+    #idTd2x
+    {
+    text-align: left;
+    text-align: Center;
+    color : black; 
+    }
